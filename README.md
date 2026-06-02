@@ -1,1 +1,1 @@
-## Computer Vision Engineer, currently working on Ticketless parking system with (ANPR)
+## Computer Vision Engineer, currently working on Personalized Hairstyle Recommendation System using Computer Vision
