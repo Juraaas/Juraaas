@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a Computer Vision Engineer & ML/AI researcher interested in building intelligent Vision systems.<br>🧠 Interests: ML Engineering, Computer Vision <br>🛠️ Currently building: Face Geometry-Based Hairstyle Recommendation System<br>📚 Currently learning: Advanced Computer Vision, Pose Estimation pipelines
+👋 Hi! I'm a Computer Vision Engineer & ML/AI researcher interested in building intelligent Vision systems.<br>🧠 Interests: ML Engineering, Computer Vision <br>🛠️ Currently building: Face Geometry-Based Hairstyle Recommendation System (Stylizzer) <br>📚 Currently learning: Advanced Computer Vision, Pose Estimation pipelines
 
 
 ## 🌐 Socials:
