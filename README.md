@@ -8,7 +8,7 @@ Human behavior analysis, temporal video modeling, real-time vision systems.
 | Project | What it is | Stack |
 |---|---|---|
 | [AV Perception Pipeline](link) | nuScenes: detection + tracking, depth, optical flow, camera-LiDAR fusion, 3D MOT in BEV *(in progress)* | PyTorch, ByteTrack |
-| [Stylizzer](https://github.com/Juraaas/facial_feature_hairstyle_recommender) | Explainable face-geometry hairstyle recommender, calibrated on ~21K faces, [live demo](link) | MediaPipe, FastAPI, React |
+| [Stylizzer](https://github.com/Juraaas/facial_feature_hairstyle_recommender) | Explainable face-geometry hairstyle recommender, calibrated on ~21K faces, [live demo](https://stylizzer.vercel.app) | MediaPipe, FastAPI, React |
 | [Smart Retail Shelf Analytics](link) | Real-time shelf monitoring, 40–60 FPS on CPU | YOLOv8, ByteTrack |
 | [ANPR](link) | License plate recognition and tracking | YOLOv8, ByteTrack, EasyOCR |
 | [job-hunter](link) | Semi-automated job search: scrape → score → generate → human review | Python, SQLAlchemy |
