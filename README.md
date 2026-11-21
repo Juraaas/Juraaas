@@ -7,11 +7,11 @@ Human behavior analysis, temporal video modeling, real-time vision systems.
 ## Featured projects
 | Project | What it is | Stack |
 |---|---|---|
-| [AV Perception Pipeline](link) | nuScenes: detection + tracking, depth, optical flow, camera-LiDAR fusion, 3D MOT in BEV *(in progress)* | PyTorch, ByteTrack |
-| [Stylizzer](https://github.com/Juraaas/facial_feature_hairstyle_recommender) | Explainable face-geometry hairstyle recommender, calibrated on ~21K faces, [live demo](https://stylizzer.vercel.app) | MediaPipe, FastAPI, React |
-| [Smart Retail Shelf Analytics](link) | Real-time shelf monitoring, 40–60 FPS on CPU | YOLOv8, ByteTrack |
-| [ANPR](link) | License plate recognition and tracking | YOLOv8, ByteTrack, EasyOCR |
-| [job-hunter](link) | Semi-automated job search: scrape → score → generate → human review | Python, SQLAlchemy |
+| [AV Perception Pipeline](https://github.com/Juraaas/av-perception-pipeline) | nuScenes: detection + tracking, depth, optical flow, camera-LiDAR fusion, 3D MOT in BEV *(in progress)* | PyTorch, ByteTrack |
+| [Stylizzer](https://github.com/Juraaas/facial_feature_hairstyle_recommender) | Explainable face-geometry hairstyle recommender, calibrated on ~21K faces, [live demo](https://stylizzer.app) | MediaPipe, FastAPI, React |
+| [Smart Retail Shelf Analytics](https://github.com/Juraaas/python_projects/tree/main/smart_retail_shelf_analytics) | Real-time shelf monitoring, 40–60 FPS on CPU | YOLOv8, ByteTrack |
+| [ANPR](https://github.com/Juraaas/python_projects/tree/main/vision_ticketless_parking_system) | License plate recognition and tracking | YOLOv8, ByteTrack, EasyOCR |
+| [job-hunter](https://github.com/Juraaas/job-hunter) | Semi-automated job search: scrape → score → generate → human review | Python, SQLAlchemy |
 
 ## Research
 Co-author of two Q1 Scopus papers (Land Use Policy 2026; Engineering Applications of AI 2026).
